@@ -30,6 +30,4 @@ to solve a real-world **energy analytics challenge**.
 - High multicollinearity among predictors
 - Legal, ethical, and privacy risks associated with household energy data
 
-## Files
-- `Big_Data_Coursework.ipynb` – full analysis and code
-- `/report/Energy_Consumption_Analysis_Report.pdf` – academic report
+
