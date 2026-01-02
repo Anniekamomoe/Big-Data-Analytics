@@ -31,5 +31,5 @@ to solve a real-world **energy analytics challenge**.
 - Legal, ethical, and privacy risks associated with household energy data
 
 ## Files
-- `/notebooks/household_energy_analysis.ipynb` – full analysis and code
+- `Big_Data_Coursework.ipynb` – full analysis and code
 - `/report/Energy_Consumption_Analysis_Report.pdf` – academic report
